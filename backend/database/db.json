@@ -1,0 +1,64 @@
+{
+  "services": [
+    {
+      "id": "1",
+      "name": "Classic Skin Fade",
+      "price": 15,
+      "duration": "30 min",
+      "imageUrl": "https://images.pexels.com/photos/33461079/pexels-photo-33461079.jpeg?cs=srgb&dl=pexels-alexander-mass-748453803-33461079.jpg&fm=jpg",
+      "description": "Clean and sharp low or mid skin fade with a tailored top. Perfect for a fresh, modern look that still feels professional."
+    },
+    {
+      "id": "2",
+      "name": "Beard Trim & Shaping",
+      "price": 10,
+      "duration": "20 min",
+      "imageUrl": "https://images.pexels.com/photos/4625633/pexels-photo-4625633.jpeg?cs=srgb&dl=pexels-shkrabaanthony-4625633.jpg&fm=jpg",
+      "description": "Detailed beard trim with razor line-up and shaping to match your face structure. Finished with warm towel and beard oil."
+    },
+    {
+      "id": "3",
+      "name": "Full Haircut & Style",
+      "price": 20,
+      "duration": "40 min",
+      "imageUrl": "https://images.pexels.com/photos/3998395/pexels-photo-3998395.jpeg?cs=srgb&dl=pexels-cottonbro-3998395.jpg&fm=jpg",
+      "description": "From classic gentleman cuts to trendy textured crops, finished with professional styling products so you walk out photo-ready."
+    },
+    {
+      "id": "4",
+      "name": "Fade With Beard Combo",
+      "price": 25,
+      "duration": "50 min",
+      "imageUrl": "https://images.pexels.com/photos/4625633/pexels-photo-4625633.jpeg?cs=srgb&dl=pexels-shkrabaanthony-4625633.jpg&fm=jpg",
+      "description": "A full fade plus beard trim and line-up. Balanced proportions between hair and beard for a strong, masculine look."
+    },
+    {
+      "id": "5",
+      "name": "Clean Up & Neckline",
+      "price": 8,
+      "duration": "15 min",
+      "imageUrl": "https://images.pexels.com/photos/29189825/pexels-photo-29189825.jpeg?cs=srgb&dl=pexels-sie7e-29189825.jpg&fm=jpg",
+      "description": "Quick refresh between full cuts. Neckline, edges and sideburns cleaned up so you stay sharp all week."
+    }
+  ],
+  "contacts": [
+    {
+      "id": "1763814619662",
+      "name": "husain",
+      "email": "22230528@students.liu.edu.lb",
+      "message": "hi how are you",
+      "preferredService": "class skin fade",
+      "preferredDay": "Tuesday",
+      "createdAt": "2025-11-22T12:30:19.662Z"
+    },
+    {
+      "id": "1763814696958",
+      "name": "Anas",
+      "email": "memoar19962@gmail.com",
+      "message": "kifk kif sahtak babe",
+      "preferredService": "class skin fade",
+      "preferredDay": "Monday",
+      "createdAt": "2025-11-22T12:31:36.958Z"
+    }
+  ]
+}
